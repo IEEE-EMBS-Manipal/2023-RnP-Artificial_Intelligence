@@ -107,6 +107,7 @@ Model solutions for suitable problems will be available after the due date of th
 ## Some useful resources
 
 - Neural networks, 3Blue1Brown
+
   https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 - A beginner's guide to artificial intelligence and machine learning, IBM
@@ -114,9 +115,11 @@ Model solutions for suitable problems will be available after the due date of th
   https://developer.ibm.com/articles/cc-beginner-guide-machine-learning-ai-cognitive/
 
 - Artificial Intelligence for Beginners - A Curriculum, Microsoft
+
   https://microsoft.github.io/AI-For-Beginners/
 
 - ML-For-Beginners, GitHub
+
   https://github.com/microsoft/ML-For-Beginners
 
 - Get started with machine learning, IBM
@@ -124,9 +127,11 @@ Model solutions for suitable problems will be available after the due date of th
   https://developer.ibm.com/learningpaths/learning-path-machine-learning-for-developers/
 
 - MNIST Classifier - first Deep Learning project, Kaggle
+
   https://www.kaggle.com/code/heeraldedhia/mnist-classifier-first-deep-learning-project
 
 - Convolutional Neural Networks, Explained
+
   https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939
 
 - Convolutional Neural Networks: The Biologically-Inspired Model
@@ -138,12 +143,15 @@ Model solutions for suitable problems will be available after the due date of th
   https://www.ibm.com/topics/convolutional-neural-networks
 
 - Understanding LSTM Networks
+
   https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 - Deep Learning, NLP, and Representations
+
   https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 
 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning, Coursera
+
   https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice
 
 - Deep-learning-with-python-notebooks, GitHub
