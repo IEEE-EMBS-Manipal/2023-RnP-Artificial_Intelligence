@@ -155,4 +155,5 @@ Model solutions for suitable problems will be available after the due date of th
   https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice
 
 - Deep-learning-with-python-notebooks, GitHub
+
   https://github.com/fchollet/deep-learning-with-python-notebooks
