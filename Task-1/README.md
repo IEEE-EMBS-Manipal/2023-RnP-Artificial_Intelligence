@@ -1,10 +1,15 @@
 # Artificial Intelligence | Task-1
 
+Tasks:
+- [Task-1a](#TASK-1a)
+- [Task-1b](#TASK-1b)
+
 ## Reading/ Prerequisites
 
-The following prerequisites are suggested to be known before starting out. They are common knowledge which everyone working in the AI domain must know.
+The following prerequisites are suggested to be known before starting out. They are common knowledge that everyone working in the AI domain must know.
 
-Read and learn about them, a write a small detailed report about the key understandings in brief for each topic. Explain it as you seem appropriate.
+### TASK-1a
+Read and learn about them, a write a **small detailed report** about the key understandings in brief for each topic. Explain it as you seem appropriate.
 
 ---
 
@@ -24,7 +29,7 @@ Read and learn about them, a write a small detailed report about the key underst
   - Pre-processing
   - **Feature extraction**
     - Vector encodings
-    - Dimentionality reduction
+    - Dimensionality reduction
   - Dataset creation
     - Train-test splits
   - Model preparation
@@ -40,7 +45,7 @@ Read and learn about them, a write a small detailed report about the key underst
 
 - **Problem types**
   - Classification problem
-    - **Naive Baiyes Classifier**
+    - **Naive Bayes Classifier**
   - Clustering problem
     - K-means clustering
     - Decision trees
@@ -88,7 +93,7 @@ Read and learn about them, a write a small detailed report about the key underst
 
 ## Programming [Python]
 
-It is recommended to use Python since it's the most widely used and has excellent support in building and training models with it's libraries and frameworks such as Tensorflow, Keras, PyTorch, etc.
+It is recommended to use Python since it's the most widely used and has excellent support in building and training models with its libraries and frameworks such as Tensorflow, Keras, PyTorch, etc.
 
 - Accessing and Installations
   - If you're using locally, Install Anaconda
@@ -99,7 +104,7 @@ It is recommended to use Python since it's the most widely used and has excellen
   - Google Colab
     - https://colab.google/notebooks/
     - https://colab.research.google.com/#create=true
-    - Login using Google account, and save your Notebooks on Google Drive
+    - Log in using your Google account, and save your Notebooks on Google Drive
   - Kaggle
     - https://www.kaggle.com/
 
@@ -109,16 +114,17 @@ It is recommended to use Python since it's the most widely used and has excellen
   - https://keras.io/getting_started/
   - https://keras.io/getting_started/learning_resources/
 
-    Additional resources in next section
+    Additional resources in the next section
 
+---
 
-### TASK
+### TASK-1b
 
-Build a MNIST Digit Classifier.
+Build an MNIST Digit Classifier.
 
-Upload the Jupyter Notebook `.ipynb` and the PDF file in the Teams Folder, and an arrangement will be made later to upload to this GitHub Repository. Use the filename format: `AI-Task-1-[First name]`.
+Upload the Jupyter Notebook `.ipynb`, and the PDF file in the Teams Folder, and an arrangement will be made later to upload to this GitHub Repository. Use the filename format: `AI-Task-1-[First name]`.
 
-(Feel free to use any other format if you prefer them: `.py` file, .`ipynb` file, Colab Notebook, Kaggle notebook, etc).
+(Feel free to use any other format if you prefer: `.py` file, .`ipynb` file, Colab Notebook, Kaggle notebook, etc.).
 
 ---
 
