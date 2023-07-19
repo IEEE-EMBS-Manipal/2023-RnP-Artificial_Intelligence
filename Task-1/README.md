@@ -122,7 +122,7 @@ It is recommended to use Python since it's the most widely used and has excellen
 
 Build an MNIST Digit Classifier.
 
-Upload the Jupyter Notebook `.ipynb`, and the PDF file in the Teams Folder, and an arrangement will be made later to upload to this GitHub Repository. Use the filename format: `AI-Task-1-[First name]`.
+Upload the Jupyter Notebook `.ipynb`, and the PDF file in the Teams Folder, and an arrangement will be made later to upload to this GitHub Repository. Use the filename format: `IEEE EMBS AI Task-1 [First name]`.
 
 (Feel free to use any other format if you prefer: `.py` file, .`ipynb` file, Colab Notebook, Kaggle notebook, etc.).
 
