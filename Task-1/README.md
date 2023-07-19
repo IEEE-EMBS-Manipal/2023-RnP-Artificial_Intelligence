@@ -1,8 +1,8 @@
 # Artificial Intelligence | Task-1
 
 Tasks:
-- [Task-1a](#TASK-1a)
-- [Task-1b](#TASK-1b)
+- [Task-1a](### TASK-1a)
+- [Task-1b](###TASK-1b)
 
 ## Reading/ Prerequisites
 
