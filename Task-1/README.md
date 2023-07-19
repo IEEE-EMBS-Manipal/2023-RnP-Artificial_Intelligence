@@ -98,7 +98,7 @@ It is recommended to use Python since it's the most widely used and has excellen
 
   Additional resources in next section
 
-- **<u>TASK</u>**: Build a MNIST Image Classifier
+- **<u>TASK</u>**: Build a MNIST Digit Classifier
 
 ---
 
