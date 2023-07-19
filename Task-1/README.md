@@ -90,19 +90,39 @@ Read and learn about them, a write a small detailed report about the key underst
 
 It is recommended to use Python since it's the most widely used and has excellent support in building and training models with it's libraries and frameworks such as Tensorflow, Keras, PyTorch, etc.
 
+- Accessing and Installations
+  - If you're using locally, Install Anaconda
+    - https://www.anaconda.com/download#downloads
+      - Available for Windows, macOS (Intel, Apple Silicon), and Linux
+    - Install Python, Jupyter Notebook, and other libraries by default.
+    - Jupyter Notebooks (https://jupyter.org/)
+  - Google Colab
+    - https://colab.google/notebooks/
+    - https://colab.research.google.com/#create=true
+    - Login using Google account, and save your Notebooks on Google Drive
+  - Kaggle
+    - https://www.kaggle.com/
+
 - Explore the *TensorFlow Keras Framework*
 
   - https://www.tensorflow.org/guide/keras
   - https://keras.io/getting_started/
   - https://keras.io/getting_started/learning_resources/
 
-  Additional resources in next section
+    Additional resources in next section
 
-- **<u>TASK</u>**: Build a MNIST Digit Classifier
+
+### TASK
+
+Build a MNIST Digit Classifier.
+
+Upload the Jupyter Notebook `.ipynb` and the PDF file in the Teams Folder, and an arrangement will be made later to upload to this GitHub Repository. Use the filename format: `AI-Task-1-[First name]`.
+
+(Feel free to use any other format if you prefer them: `.py` file, .`ipynb` file, Colab Notebook, Kaggle notebook, etc).
 
 ---
 
-Model solutions for suitable problems will be available after the due date of the task completion, or an appropriate resource will be shared. Check it out at https://github.com/IEEE-EMBS-Manipal/2023-RnP-Artificial_Intelligence when it's available there.
+Model solutions for suitable problems will be available after the due date of the task completion, or an appropriate solution resource will be shared. Check it out at https://github.com/IEEE-EMBS-Manipal/2023-RnP-Artificial_Intelligence when it's available there.
 
 ## Some useful resources
 
@@ -113,6 +133,24 @@ Model solutions for suitable problems will be available after the due date of th
 - A beginner's guide to artificial intelligence and machine learning, IBM
 
   https://developer.ibm.com/articles/cc-beginner-guide-machine-learning-ai-cognitive/
+
+- Python
+
+  - Programming for Everybody (Getting Started with Python), Coursera
+    https://in.coursera.org/learn/python
+
+  - Python
+    https://programiz.pro/learn/master-python
+  - The Jupyter Notebook Formatting Guide
+    https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e
+
+- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning, Coursera
+
+  https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice
+
+- Deep-learning-with-python-notebooks, GitHub
+
+  https://github.com/fchollet/deep-learning-with-python-notebooks
 
 - Artificial Intelligence for Beginners - A Curriculum, Microsoft
 
@@ -130,17 +168,19 @@ Model solutions for suitable problems will be available after the due date of th
 
   https://www.kaggle.com/code/heeraldedhia/mnist-classifier-first-deep-learning-project
 
-- Convolutional Neural Networks, Explained
-
-  https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939
-
-- Convolutional Neural Networks: The Biologically-Inspired Model
-
-  https://www.codementor.io/@james_aka_yale/convolutional-neural-networks-the-biologically-inspired-model-iq6s48zms
-
 - Convolutional Neural Networks
 
-  https://www.ibm.com/topics/convolutional-neural-networks
+  - Convolutional Neural Networks, Explained
+
+    https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939
+
+  - Convolutional Neural Networks: The Biologically-Inspired Model
+
+    https://www.codementor.io/@james_aka_yale/convolutional-neural-networks-the-biologically-inspired-model-iq6s48zms
+
+  - Convolutional Neural Networks
+
+    https://www.ibm.com/topics/convolutional-neural-networks
 
 - Understanding LSTM Networks
 
@@ -150,10 +190,3 @@ Model solutions for suitable problems will be available after the due date of th
 
   https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 
-- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning, Coursera
-
-  https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice
-
-- Deep-learning-with-python-notebooks, GitHub
-
-  https://github.com/fchollet/deep-learning-with-python-notebooks
