@@ -108,6 +108,8 @@ It is recommended to use Python since it's the most widely used and has excellen
   - Kaggle
     - https://www.kaggle.com/
 
+- If you're new to Python, checkout the resouces in the next section and complete it before proceeding with the task.
+
 - Explore the *TensorFlow Keras Framework*
 
   - https://www.tensorflow.org/guide/keras
@@ -120,35 +122,43 @@ It is recommended to use Python since it's the most widely used and has excellen
 
 ### TASK-1b
 
-Build an MNIST Digit Classifier.
+Build an **MNIST Digit Classifier**.
 
-Upload the Jupyter Notebook `.ipynb`, and the PDF file in the Teams Folder, and an arrangement will be made later to upload to this GitHub Repository. Use the filename format: `IEEE EMBS AI Task-1 [First name]`.
+Upload the Jupyter Notebook `.ipynb`, and the PDF file in the Teams Folder, and an arrangement will be made later to upload on GitHub. Use the ***filename*** format: `IEEE EMBS AI Task-1 [First name]`.
 
 (Feel free to use any other format if you prefer: `.py` file, .`ipynb` file, Colab Notebook, Kaggle notebook, etc.).
 
 ---
 
-Model solutions for suitable problems will be available after the due date of the task completion, or an appropriate solution resource will be shared. Check it out at https://github.com/IEEE-EMBS-Manipal/2023-RnP-Artificial_Intelligence when it's available there.
+**Model solutions** for suitable problems will be available after the due date of the task completion, or an appropriate solution resource will be shared. Check it out at https://github.com/IEEE-EMBS-Manipal/2023-RnP-Artificial_Intelligence when it's available there.
 
 ## Some useful resources
 
-- Neural networks, 3Blue1Brown
+- If you're ***new to Python***, check out these resources
+
+  - Learn Python
+
+    https://www.learnpython.org/
+
+  - Programming for Everybody (Getting Started with Python), Coursera
+  
+    https://in.coursera.org/learn/python
+
+  - Python 
+  
+    https://programiz.pro/learn/master-python
+  
+  - The Jupyter Notebook Formatting Guide
+  
+    https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e
+
+- **Neural networks, 3Blue1Brown**
 
   https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 - A beginner's guide to artificial intelligence and machine learning, IBM
 
   https://developer.ibm.com/articles/cc-beginner-guide-machine-learning-ai-cognitive/
-
-- Python
-
-  - Programming for Everybody (Getting Started with Python), Coursera
-    https://in.coursera.org/learn/python
-
-  - Python
-    https://programiz.pro/learn/master-python
-  - The Jupyter Notebook Formatting Guide
-    https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e
 
 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning, Coursera
 
